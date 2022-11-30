@@ -1,4 +1,4 @@
 # HelloWorld
 
-My HelloWorld version app using WPF framework:
+My HelloWorld app using WPF framework:
 + added say hi to current windows username
