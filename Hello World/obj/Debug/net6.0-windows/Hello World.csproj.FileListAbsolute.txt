@@ -1,0 +1,21 @@
+C:\Users\Hadafi\source\repos\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.exe
+C:\Users\Hadafi\source\repos\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.deps.json
+C:\Users\Hadafi\source\repos\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.runtimeconfig.json
+C:\Users\Hadafi\source\repos\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.dll
+C:\Users\Hadafi\source\repos\Hello World\Hello World\bin\Debug\net6.0-windows\Hello World.pdb
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.csproj.AssemblyReference.cache
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World_MarkupCompile.cache
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World_MarkupCompile.lref
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.g.resources
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.AssemblyInfoInputs.cache
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.AssemblyInfo.cs
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.dll
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\refint\Hello World.dll
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.pdb
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\Hello World.genruntimeconfig.cache
+C:\Users\Hadafi\source\repos\Hello World\Hello World\obj\Debug\net6.0-windows\ref\Hello World.dll
